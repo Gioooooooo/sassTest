@@ -1,0 +1,13 @@
+header,
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+header img {
+  margin-right: auto;
+  display: block;
+}
+.logo {
+  padding: 1.4rem;
+}
